@@ -38,7 +38,7 @@ Siga os passos abaixo para executar os códigos localmente:
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/GeovannaApNunes/IA---EDN.git
+   git clone https://github.com/MirelaGiacomoni/IA---EDN.git
    ```
 
 2. **Acesse a pasta do projeto**
