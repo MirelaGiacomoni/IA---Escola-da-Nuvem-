@@ -13,6 +13,7 @@ IA---EDN/
 ├── pasta3/
 ├── pasta4/
 ├── pasta5/
+├── pasta6/
 ```
 
 > Cada pasta corresponde a uma etapa do curso ou conjunto específico de exercícios.
